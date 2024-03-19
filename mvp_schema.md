@@ -9,10 +9,10 @@
 
 ## Addistional features
 
-- Use a movie API to get detailed info about items
+- Use a movie/tv API to get detailed info about items
 - A user can search to find specific items
-- Use a TV show API to get detailed info about items
-- Have a section that shows where an item is streaming
+- A user can leave a review on an item
+- Show most popular items
 
 ## DB Models
 
